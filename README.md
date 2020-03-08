@@ -1,3 +1,7 @@
+### :sparkling_heart:[全网最低价购买云服务器](https://mp.weixin.qq.com/s/lLKIzX9DAFnYcNF-dpWQyw) 有服务器购买需求的点击链接可以看看。
+
+
+***
 ### :bamboo:为什么有这个仓库？
 
 
