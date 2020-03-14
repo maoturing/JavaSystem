@@ -383,7 +383,6 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 <img src='https://user-gold-cdn.xitu.io/2020/2/27/17085312556871be?w=752&h=974&f=png&s=223055' width=400px height=500px />
 
 
-
 #### :sparkling_heart:<a name="公众号">加入公众号</a> ###
 
 如果大家想要**实时**关注我更新的文章以及分享的干货的话，可以关注我的公众号Java3y。
@@ -392,10 +391,13 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 - :bell:**获取Java精美脑图**
 - :clipboard:**获取Java学习路线**
 - :sound:**获取开发常用工具**
+- :christmas_tree:**获取精美PDF**
+
 
 在公众号下回复「**888**」即可获取！！
 
-<img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=400px height=400px />
+<img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=200px height=200px /><img src='https://tva1.sinaimg.cn/large/00831rSTly1gctqs4ehdjg308c052nk7.gif' width=200px height=200px /><img src='https://tva1.sinaimg.cn/large/00831rSTly1gctqs4ehdjg308c052nk7.gif' width=200px height=200px /><img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=200px height=200px />
+
 
 ***
 ### :sparkling_heart:[全网最低价购买云服务器](https://mp.weixin.qq.com/s/lLKIzX9DAFnYcNF-dpWQyw)  有服务器购买需求的可以点击链接看看。
