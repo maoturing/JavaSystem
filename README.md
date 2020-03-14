@@ -1,7 +1,11 @@
-### :sparkling_heart:[全网最低价购买云服务器](https://mp.weixin.qq.com/s/lLKIzX9DAFnYcNF-dpWQyw) 有服务器购买需求的点击链接可以看看。
+PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问我**（公众号有我的联系方式）。扫二维码或者**微信搜索Java3y**，在公众号下回复「**888**」即可获取！！
 
+![](https://tva1.sinaimg.cn/large/00831rSTly1gctlo64beaj31mp0u07wh.jpg)
+
+<img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=200px height=200px />
 
 ***
+
 ### :bamboo:为什么有这个仓库？
 
 
@@ -12,9 +16,6 @@
 **如果实时想要获取最新的干货，欢迎关注我的公众号：Java3y**
 
 > 欢迎投稿！联系我！
-
-
-<img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=400px height=400px />
 
 
 <p align="center">
