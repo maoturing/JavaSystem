@@ -1,3 +1,16 @@
+PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问我**（公众号有我的联系方式）。扫二维码或者**微信搜索Java3y**，在公众号下回复「**888**」即可获取！！
+
+![](https://tva1.sinaimg.cn/large/00831rSTly1gctsejip0mj31ks0u04qp.jpg)
+
+![](https://tva1.sinaimg.cn/large/00831rSTly1gctlo64beaj31mp0u07wh.jpg)
+
+<img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=200px height=200px /><img src='https://tva1.sinaimg.cn/large/00831rSTly1gctqmhzmnwg308c052nk8.gif' width=200px height=200px /><img src='https://tva1.sinaimg.cn/large/00831rSTly1gctqmhzmnwg308c052nk8.gif' width=200px height=200px /><img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=200px height=200px />
+
+
+
+
+***
+
 ### :bamboo:为什么有这个仓库？
 
 
@@ -10,15 +23,13 @@
 > 欢迎投稿！联系我！
 
 
-<img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=400px height=400px />
-
-
 <p align="center">
+  <a href="https://github.com/ZhongFuCheng3y/3y"><img src="https://img.shields.io/badge/原创-文章-brightgreen.svg" alt="博客园"></a>
   <a href="#微信群"><img src="https://img.shields.io/badge/chat-加入微信群-lightgrey.svg" alt="微信群"></a>
   <a href="#公众号"><img src="https://img.shields.io/badge/关注公众号-Java3y-blue.svg" alt="公众号"></a>
   <a href="https://juejin.im/user/5a7005b46fb9a01c995117a7"><img src="https://img.shields.io/badge/关注-掘金-lightgrey.svg" alt="掘金"></a>
   <a href="https://www.zhihu.com/people/Java_3y/activities"><img src="https://img.shields.io/badge/关注-知乎-critical.svg" alt="知乎"></a>
-  <a href="https://i-beta.cnblogs.com/"><img src="https://img.shields.io/badge/关注-博客园-brightgreen.svg" alt="博客园"></a>
+  <a href="https://mp.weixin.qq.com/s/lLKIzX9DAFnYcNF-dpWQyw"><img src="https://img.shields.io/badge/购买-云服务-brightgreen.svg" alt="云服务"></a>
 </p>
 
 #### :flags:Java后端面试题
@@ -403,7 +414,6 @@
 <img src='https://user-gold-cdn.xitu.io/2020/2/27/17085312556871be?w=752&h=974&f=png&s=223055' width=400px height=500px />
 
 
-
 #### :sparkling_heart:<a name="公众号">加入公众号</a> ###
 
 如果大家想要**实时**关注我更新的文章以及分享的干货的话，可以关注我的公众号Java3y。
@@ -412,7 +422,14 @@
 - :bell:**获取Java精美脑图**
 - :clipboard:**获取Java学习路线**
 - :sound:**获取开发常用工具**
+- :christmas_tree:**获取精美PDF**
+
 
 在公众号下回复「**888**」即可获取！！
 
-<img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=400px height=400px />
+<img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=200px height=200px /><img src='https://tva1.sinaimg.cn/large/00831rSTly1gctqs4ehdjg308c052nk7.gif' width=200px height=200px /><img src='https://tva1.sinaimg.cn/large/00831rSTly1gctqs4ehdjg308c052nk7.gif' width=200px height=200px /><img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=200px height=200px />
+
+
+***
+### :sparkling_heart:[全网最低价购买云服务器](https://mp.weixin.qq.com/s/lLKIzX9DAFnYcNF-dpWQyw)  有服务器购买需求的可以点击链接看看。
+
