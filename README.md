@@ -25,7 +25,6 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 
 <p align="center">
   <a href="https://github.com/ZhongFuCheng3y/3y"><img src="https://img.shields.io/badge/原创-文章-brightgreen.svg" alt="博客园"></a>
-  <a href="#微信群"><img src="https://img.shields.io/badge/chat-加入微信群-lightgrey.svg" alt="微信群"></a>
   <a href="#公众号"><img src="https://img.shields.io/badge/关注公众号-Java3y-blue.svg" alt="公众号"></a>
   <a href="https://juejin.im/user/5a7005b46fb9a01c995117a7"><img src="https://img.shields.io/badge/关注-掘金-lightgrey.svg" alt="掘金"></a>
   <a href="https://www.zhihu.com/people/Java_3y/activities"><img src="https://img.shields.io/badge/关注-知乎-critical.svg" alt="知乎"></a>
@@ -403,17 +402,6 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 
 
 
-
-
-
-#### :sparkling_heart:<a name="微信群">加入微信群</a> ###
-
-
-添加我的微信备注“**加群**”，即可加入技术交流群,里面的都是人才,各个说话都好听,回到这里就像回到家一样。技术交流为主，拒绝营销广告，开发学习工作中遇到问题可以在微信群交流。欢迎有需要的朋友加群。
-
-<img src='https://user-gold-cdn.xitu.io/2020/4/18/1718b2504f8dddd2?w=564&h=786&f=jpeg&s=47900' width=400px height=500px />
-
-
 #### :sparkling_heart:<a name="公众号">加入公众号</a> ###
 
 如果大家想要**实时**关注我更新的文章以及分享的干货的话，可以关注我的公众号Java3y。
@@ -422,13 +410,19 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 - :bell:**获取Java精美脑图**
 - :clipboard:**获取Java学习路线**
 - :sound:**获取开发常用工具**
-- :christmas_tree:**获取精美PDF**
+- :christmas_tree:**获取精美原创PDF**
+- :ramen:**加入微信交流群**
 
 
 在公众号下回复「**888**」即可获取！！
 
 <img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=200px height=200px /><img src='https://tva1.sinaimg.cn/large/00831rSTly1gctqs4ehdjg308c052nk7.gif' width=200px height=200px /><img src='https://tva1.sinaimg.cn/large/00831rSTly1gctqs4ehdjg308c052nk7.gif' width=200px height=200px /><img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=200px height=200px />
 
+
+
+如果你觉得有帮助，想要打赏作者，那么可以通过这个收款码打赏我，**金额不重要，心意最重要**。主要是我可以通过这个打赏情况来看我的心血有没有价值，嘻嘻。
+
+<img src='https://tva1.sinaimg.cn/large/00831rSTly1gcuu0j4wwqj30u014qako.jpg' width=200px height=200px /><img src='https://tva1.sinaimg.cn/large/00831rSTly1gcuuckh3s4j30rc0yo7jr.jpg' width=200px height=200px />
 
 ***
 ### :sparkling_heart:[全网最低价购买云服务器](https://mp.weixin.qq.com/s/lLKIzX9DAFnYcNF-dpWQyw)  有服务器购买需求的可以点击链接看看。
