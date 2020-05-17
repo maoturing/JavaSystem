@@ -29,7 +29,7 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
   <a href="#公众号"><img src="https://img.shields.io/badge/关注公众号-Java3y-blue.svg" alt="公众号"></a>
   <a href="https://juejin.im/user/5a7005b46fb9a01c995117a7"><img src="https://img.shields.io/badge/关注-掘金-lightgrey.svg" alt="掘金"></a>
   <a href="https://www.zhihu.com/people/Java_3y/activities"><img src="https://img.shields.io/badge/关注-知乎-critical.svg" alt="知乎"></a>
-  <a href="https://mp.weixin.qq.com/s/lLKIzX9DAFnYcNF-dpWQyw"><img src="https://img.shields.io/badge/购买-云服务-brightgreen.svg" alt="云服务"></a>
+  <a href="https://mp.weixin.qq.com/s/qu-DNA5CUQWkKPEZF5s3aQ"><img src="https://img.shields.io/badge/90块购买-云服务-brightgreen.svg" alt="云服务"></a>
 </p>
 
 #### :flags:Java后端面试题
@@ -431,5 +431,5 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 
 
 ***
-### :sparkling_heart:[全网最低价购买云服务器](https://mp.weixin.qq.com/s/lLKIzX9DAFnYcNF-dpWQyw)  有服务器购买需求的可以点击链接看看。
+### :sparkling_heart:[全网最低价购买云服务器](https://mp.weixin.qq.com/s/qu-DNA5CUQWkKPEZF5s3aQ)  有服务器购买需求的可以点击链接看看。
 
