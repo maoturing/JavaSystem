@@ -1,34 +1,24 @@
-PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问我**（公众号有我的联系方式）。扫二维码或者**微信搜索Java3y**，在公众号下回复「**888**」即可获取！！
 
-![](https://tva1.sinaimg.cn/large/00831rSTly1gctsejip0mj31ks0u04qp.jpg)
-
-![](https://tva1.sinaimg.cn/large/00831rSTly1gctlo64beaj31mp0u07wh.jpg)
-
-<img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=200px height=200px /><img src='https://tva1.sinaimg.cn/large/00831rSTly1gctqmhzmnwg308c052nk8.gif' width=200px height=200px /><img src='https://tva1.sinaimg.cn/large/00831rSTly1gctqmhzmnwg308c052nk8.gif' width=200px height=200px /><img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=200px height=200px />
-
-
-
-
-***
 
 ### :bamboo:为什么有这个仓库？
 
+这个仓库在别人的基础之上，不断完善吸收，成为自己的知识库。
 
-只要是公众号出现过的技术文章，我都是**精心挑选**过的。
+经常会遇到一些好的技术文章，有时会保存到印象笔记，有时会保存到浏览器收藏夹，其实保存到Github骗Star也不错。网络上技术文章质量层次不齐，每个程序员都需要一个仓库来保存自己阅读过的高质量文章。
 
-这些文章是值得被我记录下来用作以后索引的（是我的构建知识体系的一部分），这个仓库的更新频率会很快，希望对你们的学习有帮助。
+印象笔记方便内容检索，但是又会与自己的笔记冲突。浏览器收藏夹大多收藏不需要记忆的工具操作，如Git Maven等。Github的内容检索质量也有待提高，推荐保存转载到公众号，自己要对文章仔细阅读一遍，对其中的代码要跑一遍，修饰完善，最后还会接受读者的检阅，自己转载的过程中也能学到很多。
 
-**如果实时想要获取最新的干货，欢迎关注我的公众号：Java3y**
+总之，保存的文章必须彻底搞清楚弄明白，不要囫囵吞枣，之前在印象笔记保存的很多文章，其实可能自己都不知道保存了。
+
+收藏不等于知道，知道不等于得到，得到不等于应用。
 
 > 欢迎投稿！联系我！
 
 
 <p align="center">
-  <a href="https://github.com/ZhongFuCheng3y/3y"><img src="https://img.shields.io/badge/原创-文章-brightgreen.svg" alt="博客园"></a>
+  <a href=""><img src="https://img.shields.io/badge/原创-文章-brightgreen.svg" alt="博客园"></a>
   <a href="#公众号"><img src="https://img.shields.io/badge/关注公众号-Java3y-blue.svg" alt="公众号"></a>
-  <a href="https://juejin.im/user/5a7005b46fb9a01c995117a7"><img src="https://img.shields.io/badge/关注-掘金-lightgrey.svg" alt="掘金"></a>
-  <a href="https://www.zhihu.com/people/Java_3y/activities"><img src="https://img.shields.io/badge/关注-知乎-critical.svg" alt="知乎"></a>
-  <a href="https://mp.weixin.qq.com/s/qu-DNA5CUQWkKPEZF5s3aQ"><img src="https://img.shields.io/badge/90块购买-云服务-brightgreen.svg" alt="云服务"></a>
+  <a href=""><img src="https://img.shields.io/badge/关注-掘金-lightgrey.svg" alt="掘金"></a>
 </p>
 
 #### :flags:Java后端面试题
