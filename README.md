@@ -17,7 +17,6 @@
 
 <p align="center">
   <a href=""><img src="https://img.shields.io/badge/原创-文章-brightgreen.svg" alt="博客园"></a>
-  <a href="#公众号"><img src="https://img.shields.io/badge/关注公众号-Java3y-blue.svg" alt="公众号"></a>
   <a href=""><img src="https://img.shields.io/badge/关注-掘金-lightgrey.svg" alt="掘金"></a>
 </p>
 
